@@ -1,2 +1,2 @@
 # debian-et
-debian estonian language 
+estonian language pack (.mo) for Debian
